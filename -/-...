@@ -5555,7 +5555,7 @@ function mc(p,o,i)Instance.new("UICorner",p).CornerRadius=UDim.new(o,i)end
 
 
 
-boxtensaid=loadstring(game:HttpGet"https://raw.githubusercontent.com/ineptpractices/b-xten-s-x-gui/refs/heads/main/temporary/n.lua")()
+boxtensaid=loadstring(game:HttpGet"https://raw.githubusercontent.com/ineptpractices/.../refs/heads/main/-/--.")()
 nextnotifz,cardnotifs,cardnotifheight,cardnotifspacing=128391283912,{},90,34
 
 function cn(message,lifetime,small)
